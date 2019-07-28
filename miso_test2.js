@@ -27,7 +27,6 @@ const UTF8_NUMBERS = {
 
 let inputCount = 1;
 const inputNumbers = [];
-let outputNumbers = []
 var addResult = 0;
 
 commandLine.setPrompt('Input Number(Korean) > ');
