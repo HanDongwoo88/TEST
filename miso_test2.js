@@ -46,7 +46,6 @@ function parseIntFromString(strNum){
     } else if(strNum.indexOf('억') >= 0) {
         addResult +=  parseIntFromUTF8(strNum.split('억')[0]) * UTF8_NUMBERS['억'];
         parseIntFromString(strNum.split('억')[1]);
-        
     } else if(strNum.indexOf('만') >= 0) {
        addResult +=  parseIntFromUTF8(strNum.split('만')[0]) * UTF8_NUMBERS['만'];
        parseIntFromString(strNum.split('만')[1]);
