@@ -1,6 +1,6 @@
 # ASP.NET Core를 사용하여 Microservices 만들기
 1 Visual Studio IDE를 열고 새 웹 응용 프로그램 프로젝트를 만듭니다. 프로젝트 프레임 워크 템플릿, 즉 C # 언어와의 크로스 플랫폼을 지원하는 DotNet Core 2.x or 3.0 로“ASP.NET Core Web Application”을 선택하십시오.
-!(https://wiki.jobkorea.co.kr/download/attachments/30528687/image2019-11-4_13-25-3.png?version=1&modificationDate=1572841504353&api=v2)
+![test](https://wiki.jobkorea.co.kr/download/attachments/30528687/image2019-11-4_13-25-3.png?version=1&modificationDate=1572841504353&api=v2)
 
 2 “API”옵션을 선택하고 Advance 섹션에서“Doker Support 활성화”,“HTTPS 구성”을 인증없이 선택하여 각 파일과 Docker 파일을 프로젝트에 생성하십시오. (Restful HTTP 서비스를 작성해야하기 때문에)
 !(https://wiki.jobkorea.co.kr/download/attachments/30528687/image2019-11-4_13-36-47.png?version=1&modificationDate=1572842208360&api=v2)
