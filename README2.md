@@ -25,6 +25,6 @@
 * Docker File, Image 생성 및 컨테이너화 된 서비스 실행 <br>
   VisualStudio에서 작성한 서비스 오른쪽 클릭 > add > Container Orchestrator Support 메뉴를 통해 Docker Compose를 사용합니다. 관련 파일들이 자동생성 됩니다.<br>Docker를 통해 서비스를 실행하여 생성된 docker image와 컨테이너를 확인합니다.<br><br>
 
-![DOCKERCOMPOSE](https://wiki.jobkorea.co.kr/download/attachments/30528687/image2019-11-6_14-50-18.png?version=1&modificationDate=1573019419337&api=v2)
+  ![DOCKERCOMPOSE](https://wiki.jobkorea.co.kr/download/attachments/30528687/image2019-11-6_14-50-18.png?version=1&modificationDate=1573019419337&api=v2)
 <br><br>
 [참고]:https://wiki.jobkorea.co.kr/display/MSA/Microservices+using+ASP.NET+Core
