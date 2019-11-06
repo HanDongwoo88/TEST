@@ -17,7 +17,7 @@
 * 모델 만들기 <br>
   Models 폴더를 만들고 Product와 Cateogry 모델 클래스 추가<br><br>
 * 컨텍스트 클래스 (해당 프로젝트에서는 생략) <br><br>
-* 데이터 베이스 연결 설정 (해당 프로젝트에서는 생략) <br>v
+* 데이터 베이스 연결 설정 (해당 프로젝트에서는 생략) <br><br>
 * 리포지토리 디자인 패턴 로직 <br>
   Repository 폴더를 만들고 IProductRepository 인터페이스를 정의하고 CRUD 기능의 메서드를 선언합니다. IProductRepository를 메서드를 구현하는  ProductRepository 클래스를 작성합니다. 데이터 접근은 해당 메서드에서만 이루어 집니다. startup 클래스에서 해당 리파지토리 클래스의 종속성을 주입  합니다. <br><br>
 * 컨트롤러 구현 <br>
